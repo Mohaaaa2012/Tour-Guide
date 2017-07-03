@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="intro">Welcome to Cairo</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="Mosque">Mosque</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="museum">Museum</string>
+    <string name="hotels">Hotels</string>
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+
+    //hotels
+    <string name="four_seasons">Four Seasons Hotel Cairo at Nile Plaza</string>
+    <string name="sheraton">Sheraton Cairo Hotel and Casino</string>
+    <string name="nile_ritz">The Nile Ritz-Carlton Hotel</string>
+    <string name="grand_nile">Grand Nile Tower Hotel</string>
+    <string name="kempiniski">Kempinski Nile Hotel Garden City Cairo</string>
+    <string name="sofitel">Hotel Sofitel Cairo Nile El Gezirah</string>
+    <string name="ramses">Ramses Hilton</string>
+    <string name="steigen">Steigenberger Hotel El Tahrir Cairo</string>
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+
+    //Mosques
+    <string name="Amr_Ibn_Elass">Amr Ibn Elass Mosque</string>
+    <string name="Ahmed_Ibn_Touloun">Ahmed Ibn Toloun Mosque</string>
+    <string name="Al_Azhar">Al Azhar Mosque</string>
+    <string name="Elhakim">Elhakim Beamr Allah Mosque</string>
+    <string name="Hussien">Alhussien Mosque</string>
+    <string name="Bebars">Alzaher Bebars Mosque</string>
+    <string name="Qalawoun">Alnaser Qalawoun  Mosque and School</string>
+    <string name="Hassan">Alsoltan Hassan Mosque and School</string>
+    <string name="Qunsoa">Qunsoa Elghoury Mosque and School</string>
+    <string name="Mohamed_Ali">Mohamed Ali Mosque</string>
+    <string name="Agha">Soliman Agha Elselehdar Mosque</string>
+
+    <string name="Amr_Ibn_Elass1">641 AB</string>
+    <string name="Ahmed_Ibn_Touloun1">879 AB</string>
+    <string name="Al_Azhar1">972 AB</string>
+    <string name="Elhakim1">1013 AB</string>
+    <string name="Hussien1">1154 AB</string>
+    <string name="Bebars1">1269 AB</string>
+    <string name="Qalawoun1">1334 AB</string>
+    <string name="Hassan1">1362 AB</string>
+    <string name="Qunsoa1">1504 AB</string>
+    <string name="Mohamed_Ali1">1830 AB</string>
+    <string name="Agha1">1839 AB</string>
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+
+    //Museums
+    <string name="egyptian">Egyptian Museum</string>
+    <string name="greeko">Greeko Roman Museum</string>
+    <string name="geological">Egyptian Geological Museum</string>
+    <string name="islamic">Islamic Art Museum</string>
+    <string name="copte">Copte Museum</string>
+    <string name="aquarium">Aquarium Museum</string>
+    <string name="military">Egyptian Military Museum</string>
+    <string name="alamin">El-Alamin Military Museum</string>
+    <string name="nasr">El-Nasr Museum Of Modern Art</string>
+    <string name="child">Child Museum</string>
+
+    <string name="egyptian1">1835 AB</string>
+    <string name="greeko1">1892 AB</string>
+    <string name="geological1">1901 AB</string>
+    <string name="islamic1">1903 AB</string>
+    <string name="copte1">1908 AB</string>
+    <string name="aquarium1">1930 AB</string>
+    <string name="military1">1938 AB</string>
+    <string name="alamin1">1965 AB</string>
+    <string name="nasr1">1995 AB</string>
+    <string name="child1">2012 AB</string>
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+
+    //Restaurants
+    <string name="nile">Nile Peking Restaurant</string>
+    <string name="revolving">Revolving Restaurant</string>
+    <string name="bab">Bab El Nil Tent Restaurant</string>
+    <string name="nubian">Nubian Village Restaurant</string>
+    <string name="sachi">SACHI Restaurant</string>
+    <string name="elbaghl">El Baghl El Kobra Restaurants</string>
+    <string name="antar">Antar El Kababgy Restaurant</string>
+    <string name="tamari">Tamarai Restaurant</string>
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+
+</resources>
